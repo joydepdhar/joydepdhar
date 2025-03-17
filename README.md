@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🌟 Hi there, I'm [ _Joydep_Dhar > 👋
 
-<!--
-**joydepdhar/joydepdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Backend Developer | Python | Django | C# | ASP.NET | SQL | JavaScript | React | Next.js
 
-Here are some ideas to get you started:
+## ✨ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love coding and building powerful backend systems.
+- 🎯 Currently improving my skills in **Django** and **React**.
+- 🌏 Interested in traveling and passionate about programming.
+- ☕ Coffee lover & problem solver.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, C#, JavaScript, C++
+- **Frameworks:** Django, ASP.NET, React, Next.js, Bootstrap
+- **Databases:** SQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, VS Code, Postman, Redis
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joydepdhar&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+🔗 [Portfolio](https://yourportfolio.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/joydep-dhar-15a8451aa/)  
+📧 Email: joydep.cse.aiub@gmail.com
+
+---
+
+⭐ ⭐ If you find my work helpful, consider giving a **star** to this repository on GitHub! 🚀
