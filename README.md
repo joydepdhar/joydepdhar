@@ -24,7 +24,7 @@
 
 🔗 [Portfolio](https://yourportfolio.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/joydep-dhar-15a8451aa/)  
-📧 Email: joydep.cse.aiub@gmail.com
+📧 joydep.cse.aiub@gmail.com
 
 ---
 
