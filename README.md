@@ -1,7 +1,5 @@
 # 🌟 Hi there, I'm { Joydep Dhar_> 👋
 
-![Banner](https://github.com/joydepdhar/joydepdhar/blob/main/assets/banner.png)
-
 🚀 Passionate Backend Developer || Python || Django || C# || ASP.NET || SQL || JavaScript || React |
 
 ## ✨ About Me
