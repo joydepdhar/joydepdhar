@@ -33,7 +33,7 @@
 🚀 SQL | PostgreSQL | MongoDB  
 
 ### **⚡ Tools & Platforms:**  
-🚀 Git | Docker | VS Code | Postman | Redis  
+🚀 Git | VS Code | Postman | Redis  
 
 ---
 
