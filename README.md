@@ -42,7 +42,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joydepdhar&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydepdhar&layout=compact&theme=radical" width="40%" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydepdhar&theme=radical" width="48%" alt="GitHub Streak">
 </p>
 
 ---
