@@ -48,7 +48,7 @@
 
 ## 📫 Connect with Me  
 
-🌐 **Portfolio** → [Visit Here](https://joydepdhar.github.io/Joydep-Portfolio/View/index.html)  
+🌐 **Portfolio** → [Visit Here]((https://portfolio-joydep-joydepdhars-projects.vercel.app/))  
 💼 **LinkedIn** → [Joydep Dhar](https://www.linkedin.com/in/joydep-dhar-15a8451aa/)  
 📧 **Email** → [joydep.cse.aiub@gmail.com](mailto:joydep.cse.aiub@gmail.com)  
 
