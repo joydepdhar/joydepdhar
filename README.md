@@ -100,10 +100,19 @@ I enjoy exploring:
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=joydepdhar&show_icons=true&theme=radical" width="48%" />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydepdhar&layout=compact&theme=radical" width="40%" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydepdhar&theme=radical" width="88%" />
+
 </div>
+
 
 ---
 
