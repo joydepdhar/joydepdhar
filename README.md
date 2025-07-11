@@ -59,7 +59,7 @@ I enjoy exploring:
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **E-commerce App** | Django, DRF, React, Stripe | Full-featured store with cart, checkout, payment |
+| **E-commerce App** | Django, DRF, React, Stripe | Full-featured store with cart, checkout, payment, Sqlite, Auth, JWT, SEO |
 | **Learning Management System** | Django, React, PostgreSQL | Role-based platform for Teachers & Students |
 | **Portfolio Website** | React, Tailwind CSS | Animated and responsive personal portfolio |
 | **Blog API** | Django REST Framework | CRUD API for blogging system with token auth |
