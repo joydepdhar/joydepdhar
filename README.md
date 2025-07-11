@@ -108,8 +108,6 @@ I enjoy exploring:
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydepdhar&layout=compact&theme=radical" width="40%" />
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydepdhar&theme=radical" width="88%" />
 
 </div>
 
