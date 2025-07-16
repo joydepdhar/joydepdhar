@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm **Joydep_Dhar** 👋  
 
-🚀 **Backend Developer | AI Enthusiast | Problem Solver | Coffee Lover **
+🚀 **Backend Developer | AI Enthusiast | Problem Solver | Coffee Lover  **
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -22,7 +22,7 @@ I'm a passionate backend developer with strong expertise in **Django**, **ASP.NE
 - 💡 Problem-solver and systems thinker  
 - 🌍 Open to remote opportunities  
 - ☕ Fueled by coffee and curiosity  
-- 🧠 Believer in lifelong learning & clean code  
+- 🧠 Believer in lifelong learning & clean code & want to be a stand-up comedian.  
 
 ---
 
