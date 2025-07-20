@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm **Joydep Dhar** 👋  
 
-🚀 **Backend Developer | AI Enthusiast | Problem Solver | Coffee Lover  **
+🚀 **Backend Developer | AI Enthusiast | Problem Solver  **
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
