@@ -24,8 +24,9 @@ I love turning complex problems into clean, efficient, and maintainable code.
 - 🚀 Focused on **Django**, **Odoo**, and **ASP.NET** ecosystems  
 - 🧩 Currently learning **AI, Deep Learning & MLOps**  
 - ⚙️ Exploring the integration of Dokar with DevOps practices to efficiently handle asynchronous tasks. 
-- ☕ Coffee + Debugging = Perfect Combo  
-- 🎤 Aspiring stand-up comedian — because good code should make people smile 😄  
+- ☕  Coffee + Debugging = Perfect Combo  
+- 🎤 Aspiring stand-up comedian — because good code should make people smile 😄
+- 🌐 contact me- joydep.cse.aiub@gmail.com
 
 ---
 
